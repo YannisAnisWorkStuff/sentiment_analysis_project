@@ -37,7 +37,6 @@ Data6/
 ├── tests/
 │   └── test_asba.py (Python script used to test the models during development)
 └── doc/
-    ├── presentation slides.pptx (The presentation slides)
     └── report.pdf (In depth report)
 
 
